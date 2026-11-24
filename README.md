@@ -1,5 +1,5 @@
 # Real Estate API Test Automation (Pytest + Pydantic)
-
+[![Real Estate API Tests](https://github.com)](https://github.com)
 Automated REST API test suite for a Real Estate platform built with Python, Pytest, Requests, and Pydantic. Validates property listing data contracts, geolocation boundaries, search query filtering, and negative error handling.
 
 ## Tech Stack
